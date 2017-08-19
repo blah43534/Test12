@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="New Table" max_length="40" name="x_65760_test12app_new_table" type="collection"/>
+</database>
